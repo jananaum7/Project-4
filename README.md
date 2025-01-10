@@ -15,9 +15,22 @@
 3. Create your individual branches.
     ``` bash
         git checkout main
+    ```
+    ``` bash
         git branch branch-name
+    ```
+    ``` bash
         git checkout branch-name
+    ```
+    ``` bash
         git branch
+    ```
+    ``` bash
         git push -u origin branch-name
     ```
-5. 
+5. Create resources folder
+   ``` bash
+       mkdir Resources
+   ```
+6. Open jupyter notebook and create a main_analysis.ipynb
+7. Start coding! 
