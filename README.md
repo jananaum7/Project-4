@@ -48,4 +48,12 @@ This project takes a closer look at financial data to better understand the rela
 6. Requirement: Python Matplotlib
 
 ## Project Overview
-1. Data Cleaning: 
+1. Data Cleaning:
+
+## References
+
+ChatGPT and Xpert Learning Assistant were used for analysis reference and troubleshooting errors for this project assignment.
+
+- OpenAI. (January, 2025). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/ Xpert Learning Assistant was used for troubleshooting errors for this project assignment.
+
+- Xpert Learning Assistant. (2025). Retrieved from https://bootcampspot.instructure.com/
