@@ -49,6 +49,13 @@ This project takes a closer look at financial data to better understand the rela
 
 ## Project Overview
 1. Data Cleaning:
+   - Used ‘infer_objects’ to automatically detect and convert mixed-type columns.
+   - Null values removed, unrecognizable characters removed, typos or non-numerical characters removed from number value columns, 
+     ‘credit_history_age’ column converted to # of months → ‘credit_history_age_months.
+   - ‘credit_history_age’ column dropped.
+   - Other columns dropped: ‘SSN’, ‘Occupation’, ‘Age’, ‘Customer_ID’, 'Month', 'Name', 'Changed_Credit_Limit', 'Type_of_Loan', 'Payment_Behaviour'.
+   - Cleaned columns: ‘Outstanding_Debt’, ‘Amount_invested_monthly’, ‘Monthly_Balance’ by replacing commas, underscores, and spaces with ‘ ’. 
+
 
 ## References
 
