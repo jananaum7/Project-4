@@ -6,6 +6,7 @@
 3. [Project Imports & Requirement](#project_imports_&_requirement)
 4. [Project Overview](#project_overview)
 5. [Contributers](#contributers)
+6. [References](#references)
 
 ## Introduction
 This project takes a closer look at financial data to better understand the relationship between credit scores, interest rates, and any unusual patterns or outliers that might stand out. Using Jupyter Notebook, we analyze the dataset to uncover meaningful trends and correlations that can offer valuable insights. The goal is to help customers make more informed financial decisions by showing how credit scores can affect interest rates and highlighting any irregularities in the data. By digging into these details, we aim to provide practical insights that can support smarter financial planning and strategies.
@@ -54,7 +55,14 @@ This project takes a closer look at financial data to better understand the rela
      ‘credit_history_age’ column converted to # of months → ‘credit_history_age_months.
    - ‘credit_history_age’ column dropped.
    - Other columns dropped: ‘SSN’, ‘Occupation’, ‘Age’, ‘Customer_ID’, 'Month', 'Name', 'Changed_Credit_Limit', 'Type_of_Loan', 'Payment_Behaviour'.
-   - Cleaned columns: ‘Outstanding_Debt’, ‘Amount_invested_monthly’, ‘Monthly_Balance’ by replacing commas, underscores, and spaces with ‘ ’. 
+   - Cleaned columns: ‘Outstanding_Debt’, ‘Amount_invested_monthly’, ‘Monthly_Balance’ by replacing commas, underscores, and spaces with ‘ ’.
+
+## Contributers
+- [Karina Ahumada](https://github.com/karinaahumada01)
+- [Tom Bagley](https://github.com/bthomasw)
+- [Angelica Guerrero](https://github.com/av9248)
+- [Dylon Wilson]()
+- [Jana. Naum](https://github.com/jananaum7)
 
 
 ## References
