@@ -48,6 +48,10 @@ This project analyzes financial data to understand and predict the factors that 
 5. SQLAlchemy: For connecting and interacting with databases.
 6. Requirement: Python Matplotlib
 
+### Requirements
+- [Powerpoint Presentation](https://docs.google.com/presentation/d/1KzKBNVX8u-9dERdYQd39QQngYujC3KZzNRr9a3HlKCM/edit?usp=sharing)
+
+
 ## Project Overview
 1. Data Cleaning:
    - Used ‘infer_objects’ to automatically detect and convert mixed-type columns.
