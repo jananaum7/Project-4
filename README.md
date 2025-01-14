@@ -4,9 +4,10 @@
 1. [Introduction](#introduction)
 2. [Getting Started](#getting_started)
 3. [Project Imports & Requirement](#project_imports_&_requirement)
-4. [Project Overview](#project_overview)
-5. [Contributers](#contributers)
-6. [References](#references)
+4. [Project Contents](#project_contents)
+5. [Project Overview](#project_overview)
+6. [Contributers](#contributers)
+7. [References](#references)
 
 ## Introduction
 This project analyzes financial data to understand and predict the factors that determine credit scores, such as loan interest rates, credit mix, credit history, and unusual patterns or outliers in these variables. Using Jupyter Notebook, we clean, prepare, and standardize the dataset before analyzing it with machine learning models, including Logistic Regression, Neural Networks, Decision Trees, and Random Forests. The primary goal of this project is to develop a machine learning system that predicts an individual’s credit score category (Good, Standard, or Poor) based on their financial and credit-related information. This system aims to streamline the classification process, reduce manual efforts, and provide accurate insights into creditworthiness, helping financial institutions make informed decisions.
@@ -50,6 +51,8 @@ This project analyzes financial data to understand and predict the factors that 
 
 ### Requirements
 - [Powerpoint Presentation](https://docs.google.com/presentation/d/1KzKBNVX8u-9dERdYQd39QQngYujC3KZzNRr9a3HlKCM/edit?usp=sharing)
+
+## Project Contents 
 
 
 ## Project Overview
