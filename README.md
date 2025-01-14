@@ -10,7 +10,7 @@
 7. [References](#references)
 
 ## Introduction
-This project analyzes financial data to understand and predict the factors that determine credit scores, such as loan interest rates, credit mix, credit history, and unusual patterns or outliers in these variables. Using Jupyter Notebook, we clean, prepare, and standardize the dataset before analyzing it with machine learning models, including Logistic Regression, Neural Networks, Decision Trees, and Random Forests. The primary goal of this project is to develop a machine learning system that predicts an individual’s credit score category (Good, Standard, or Poor) based on their financial and credit-related information. This system aims to streamline the classification process, reduce manual efforts, and provide accurate insights into creditworthiness, helping financial institutions make informed decisions.
+This project analyzes financial data to understand and predict the factors that determine credit scores, such as loan interest rates, credit mix, credit history, and unusual patterns or outliers in these variables. Using Jupyter Notebook, we clean, prepare, and standardize the dataset before analyzing it with machine learning models, including Logistic Regression, Neural Networks, Decision Trees, Gradient Boosting, and Random Forest. The primary goal of this project is to develop a machine learning system that predicts an individual’s credit score category (Good, Standard, or Poor) based on their financial and credit-related information. This system aims to streamline the classification process, reduce manual efforts, and provide accurate insights into creditworthiness, helping financial institutions make informed decisions.
 
 ## Getting Started
 1. Create the Project-4 repository on github.
@@ -54,10 +54,11 @@ This project analyzes financial data to understand and predict the factors that 
 
 ## Project Contents 
 1. Resources Folder:
-   - Contains our raw dataset and our cleaned dataset with and without outliers. 
-2. Jupyter Notebook:
-   - **main_analysis.ipynb**: The primary notebook where data preprocessing, analysis, and machine learning model training are performed.
-   - **Machine_Learning_Models.ipynb**: Focuses on implementing and evaluating various machine learning models.
+   - Contains our raw datasets ('test.csv' and 'train.csv') and our cleaned dataset with (**'test_cleaned.csv' and 'train_cleaned.csv'**) and without outliers('test_cleaned_without_outliers.csv' and 'train_cleaned_without_outliers.csv'). 
+2. Jupyter Notebooks:
+   - **main_analysis.ipynb**: The primary notebook where data cleaning and preparing took place.
+   - **Machine_Learning_Models.ipynb**: Focuses on cleaned dataset analysis using machine learning models--implemented through Random Forest, Gradient Boosting, & Decision Trees.
+   - **'LR and NN Model' Folder - 'Logistic_Regression_code.ipynb' & 'NN_Model_code.ipynb'**: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
 3. Presentation: Summarizing the project, key insights, results. 
 4. README.md
 
