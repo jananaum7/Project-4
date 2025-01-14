@@ -61,7 +61,7 @@ This project analyzes financial data to understand and predict the factors that 
 - [Karina Ahumada](https://github.com/karinaahumada01)
 - [Tom Bagley](https://github.com/bthomasw)
 - [Angelica Guerrero](https://github.com/av9248)
-- [Dylon Wilson]()
+- [Dylon Wilson](https://github.com/dwilson1821)
 - [Jana. Naum](https://github.com/jananaum7)
 
 
