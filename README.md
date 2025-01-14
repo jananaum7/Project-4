@@ -69,6 +69,8 @@ This project analyzes financial data to understand and predict the factors that 
 
 ChatGPT and Xpert Learning Assistant were used for analysis reference and troubleshooting errors for this project assignment.
 
+- MoneyMan. (2020). Credit card approval prediction. Kaggle. https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction 
 - OpenAI. (January, 2025). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/ Xpert Learning Assistant was used for troubleshooting errors for this project assignment.
-
+- Paris, R. (2022, June 22). Credit Score Classification. Kaggle. https://www.kaggle.com/datasets/parisrohan/credit-score-classification?resource=download&select=train.csv 
+- Rikdifos, M. (2021, July 14). Eda & Vintage Analysis. Kaggle. https://www.kaggle.com/code/rikdifos/eda-vintage-analysis 
 - Xpert Learning Assistant. (2025). Retrieved from https://bootcampspot.instructure.com/
