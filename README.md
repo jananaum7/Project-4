@@ -52,9 +52,14 @@ This project analyzes financial data to understand and predict the factors that 
 ### Requirements
 - [Powerpoint Presentation](https://docs.google.com/presentation/d/1KzKBNVX8u-9dERdYQd39QQngYujC3KZzNRr9a3HlKCM/edit?usp=sharing)
 
-
 ## Project Contents 
-
+1. Resources Folder:
+   - Contains our raw dataset and our cleaned dataset with and without outliers. 
+2. Jupyter Notebook:
+   - **main_analysis.ipynb**: The primary notebook where data preprocessing, analysis, and machine learning model training are performed.
+   - **Machine_Learning_Models.ipynb**: Focuses on implementing and evaluating various machine learning models.
+3. Presentation: Summarizing the project, key insights, results. 
+4. README.md
 
 ## Project Overview
 1. Data Cleaning:
