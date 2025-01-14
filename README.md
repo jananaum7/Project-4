@@ -9,7 +9,7 @@
 6. [References](#references)
 
 ## Introduction
-This project takes a closer look at financial data to better understand the relationship between credit scores, interest rates, and any unusual patterns or outliers that might stand out. Using Jupyter Notebook, we analyze the dataset to uncover meaningful trends and correlations that can offer valuable insights. The goal is to help customers make more informed financial decisions by showing how credit scores can affect interest rates and highlighting any irregularities in the data. By digging into these details, we aim to provide practical insights that can support smarter financial planning and strategies.
+This project analyzes financial data to understand and predict the factors that determine credit scores, such as loan interest rates, credit mix, credit history, and unusual patterns or outliers in these variables. Using Jupyter Notebook, we clean, prepare, and standardize the dataset before analyzing it with machine learning models, including Logistic Regression, Neural Networks, Decision Trees, and Random Forests. The primary goal of this project is to develop a machine learning system that predicts an individual’s credit score category (Good, Standard, or Poor) based on their financial and credit-related information. This system aims to streamline the classification process, reduce manual efforts, and provide accurate insights into creditworthiness, helping financial institutions make informed decisions.
 
 ## Getting Started
 1. Create the Project-4 repository on github.
