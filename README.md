@@ -46,7 +46,7 @@ This project analyzes financial data to understand and predict the factors that 
 3. Scikit-learn: provides tools for **splitting datasets** (train_test_split) and **scaling data** (StandardScaler).
 4. TensorFlow: Used for building, training, and evaluating machine learning models.
 5. SQLAlchemy: For connecting and interacting with databases.
-6. Requirement: Python Matplotlib
+6. Requirements: Python Matplotlib and Python Pandas
 
 ## Project Overview
 1. Data Cleaning:
