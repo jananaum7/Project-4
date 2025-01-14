@@ -59,7 +59,7 @@ This project analyzes financial data to understand and predict the factors that 
    - **main_analysis.ipynb**: The primary notebook where data cleaning and preparing took place.
    - **Machine_Learning_Models.ipynb**: Focuses on cleaned dataset analysis using machine learning models--implemented through Random Forest, Gradient Boosting, & Decision Trees.
    - **'LR and NN Model' Folder - 'Logistic_Regression_code.ipynb' & 'NN_Model_code.ipynb'**: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
-3. Presentation: Summarizing the project, key insights, results. 
+3. Presentation: Powerpoint ummarizing the project, key insights, results. 
 4. README.md
 
 ## Project Overview
