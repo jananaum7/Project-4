@@ -52,6 +52,7 @@ This project analyzes financial data to understand and predict the factors that 
 ### Requirements
 - [Powerpoint Presentation](https://docs.google.com/presentation/d/1KzKBNVX8u-9dERdYQd39QQngYujC3KZzNRr9a3HlKCM/edit?usp=sharing)
 
+
 ## Project Contents 
 
 
@@ -69,7 +70,7 @@ This project analyzes financial data to understand and predict the factors that 
 - [Tom Bagley](https://github.com/bthomasw)
 - [Angelica Guerrero](https://github.com/av9248)
 - [Dylon Wilson](https://github.com/dwilson1821)
-- [Jana. Naum](https://github.com/jananaum7)
+- [Jana Naum](https://github.com/jananaum7)
 
 
 ## References
