@@ -59,7 +59,7 @@ This project analyzes financial data to understand and predict the factors that 
    - **main_data_cleaning_prep.ipynb**: The primary notebook where data cleaning and preparation took place.
    - **heatmap_&_histogram_graph.ipynb**: Contains graphs and visual using matplotlib to better understand the dataset and communicate to audience during presentation.
    - **Machine_Learning_Models.ipynb**: Focuses on cleaned dataset analysis using machine learning models--implemented through Random Forest, Gradient Boosting, & Decision Trees.
-   - **'LR and NN Model' Folder - _'Logistic_Regression_code.ipynb'_ & _'NN_Model_code.ipynb'_: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
+   - **'LR and NN Model' Folder - _'Logistic_Regression_code.ipynb'_ & _'NN_Model_code.ipynb'**: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
 3. **RF_GB_DT_Figures** Folder - Output of graph visuals from _'Machine_Learning_Models.ipynb'_.
 4. **Presentation**: PowerPoint Summarizing the project, key insights, results. 
 5. **README.md**
