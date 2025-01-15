@@ -53,10 +53,10 @@ This project analyzes financial data to understand and predict the factors that 
 - [Powerpoint Presentation](https://docs.google.com/presentation/d/1KzKBNVX8u-9dERdYQd39QQngYujC3KZzNRr9a3HlKCM/edit?usp=sharing)
 
 ## Project Contents 
-1. Resources Folder:
-   - Contains our raw datasets ('test.csv' and 'train.csv') and our cleaned dataset with (**'test_cleaned.csv' and 'train_cleaned.csv'**) and without outliers('test_cleaned_without_outliers.csv' and 'train_cleaned_without_outliers.csv'). 
-2. Jupyter Notebooks:
-   - **main_analysis.ipynb**: The primary notebook where data cleaning and preparing took place.
+1. **Resources Folder**:
+   - Contains our raw datasets (_'test.csv'_ and _'train.csv'_) and our cleaned dataset with (_'test_cleaned.csv'_ and _'train_cleaned.csv'_) and without outliers (_'test_cleaned_without_outliers.csv'_ and _'train_cleaned_without_outliers.csv'_). 
+2. **Jupyter Notebooks**:
+   - **main_analysis.ipynb**2: The primary notebook where data cleaning and preparing took place.
    - **heatmap_&_histogram_graph.ipynb**: Contains graphs and visual using matplotlib to better understand the dataset and communicate to audience during presentation.
    - **Machine_Learning_Models.ipynb**: Focuses on cleaned dataset analysis using machine learning models--implemented through Random Forest, Gradient Boosting, & Decision Trees.
    - **'LR and NN Model' Folder - 'Logistic_Regression_code.ipynb' & 'NN_Model_code.ipynb'**: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
