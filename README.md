@@ -56,13 +56,13 @@ This project analyzes financial data to understand and predict the factors that 
 1. **Resources Folder**:
    - Contains our raw datasets (_'test.csv'_ and _'train.csv'_) and our cleaned dataset with (_'test_cleaned.csv'_ and _'train_cleaned.csv'_) and without outliers (_'test_cleaned_without_outliers.csv'_ and _'train_cleaned_without_outliers.csv'_). 
 2. **Jupyter Notebooks**:
-   - **main_analysis.ipynb**2: The primary notebook where data cleaning and preparing took place.
+   - **main_analysis.ipynb**: The primary notebook where data cleaning and preparing took place.
    - **heatmap_&_histogram_graph.ipynb**: Contains graphs and visual using matplotlib to better understand the dataset and communicate to audience during presentation.
    - **Machine_Learning_Models.ipynb**: Focuses on cleaned dataset analysis using machine learning models--implemented through Random Forest, Gradient Boosting, & Decision Trees.
-   - **'LR and NN Model' Folder - 'Logistic_Regression_code.ipynb' & 'NN_Model_code.ipynb'**: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
-3. **RF_GB_DT_Figures** Folder - Output of graph visuals from 'Machine_Learning_Models.ipynb'
-4. Presentation: PowerPoint Summarizing the project, key insights, results. 
-5. README.md
+   - **'LR and NN Model' Folder - _'Logistic_Regression_code.ipynb'_ & _'NN_Model_code.ipynb'_: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
+3. **RF_GB_DT_Figures** Folder - Output of graph visuals from _'Machine_Learning_Models.ipynb'_.
+4. **Presentation**: PowerPoint Summarizing the project, key insights, results. 
+5. **README.md**
 
 ## Project Overview
 1. Data Cleaning:
@@ -80,11 +80,9 @@ This project analyzes financial data to understand and predict the factors that 
 - [Dylon Wilson](https://github.com/dwilson1821)
 - [Jana Naum](https://github.com/jananaum7)
 
-
 ## References
 
 ChatGPT and Xpert Learning Assistant were used for analysis reference and troubleshooting errors for this project assignment.
-
 - MoneyMan. (2020). Credit card approval prediction. Kaggle. https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction 
 - OpenAI. (January, 2025). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/ Xpert Learning Assistant was used for troubleshooting errors for this project assignment.
 - Paris, R. (2022, June 22). Credit Score Classification. Kaggle. https://www.kaggle.com/datasets/parisrohan/credit-score-classification?resource=download&select=train.csv 
