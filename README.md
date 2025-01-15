@@ -74,7 +74,7 @@ This project analyzes financial data to understand and predict the factors that 
    - Other columns dropped: ‘SSN’, ‘Occupation’, ‘Age’, ‘Customer_ID’, 'Month', 'Name', 'Changed_Credit_Limit', 'Type_of_Loan', 'Payment_Behaviour'.
    - Cleaned columns: ‘Outstanding_Debt’, ‘Amount_invested_monthly’, ‘Monthly_Balance’ by replacing commas, underscores, and spaces with ‘ ’.
 
-## Contributers
+## Contributors
 - [Karina Ahumada](https://github.com/karinaahumada01)
 - [Tom Bagley](https://github.com/bthomasw)
 - [Angelica Guerrero](https://github.com/av9248)
