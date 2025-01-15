@@ -50,6 +50,7 @@ This project analyzes financial data to understand and predict the factors that 
 6. Requirements: Python Matplotlib and Python Pandas
 
 ### Requirements
+- [Project Proposal](https://docs.google.com/document/d/1Ve2jkFsAuE5PtZXq_hmrw_BPsWthId8zD1iJ8izJr2c/edit?usp=sharing)
 - [Powerpoint Presentation](https://docs.google.com/presentation/d/1KzKBNVX8u-9dERdYQd39QQngYujC3KZzNRr9a3HlKCM/edit?usp=sharing)
 
 ## Project Contents 
