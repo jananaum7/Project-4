@@ -56,7 +56,7 @@ This project analyzes financial data to understand and predict the factors that 
 1. **Resources Folder**:
    - Contains our raw datasets (_'test.csv'_ and _'train.csv'_) and our cleaned dataset with (_'test_cleaned.csv'_ and _'train_cleaned.csv'_) and without outliers (_'test_cleaned_without_outliers.csv'_ and _'train_cleaned_without_outliers.csv'_). 
 2. **Jupyter Notebooks**:
-   - **main_analysis.ipynb**: The primary notebook where data cleaning and preparing took place.
+   - **main_data_cleaning_prep.ipynb**: The primary notebook where data cleaning and preparation took place.
    - **heatmap_&_histogram_graph.ipynb**: Contains graphs and visual using matplotlib to better understand the dataset and communicate to audience during presentation.
    - **Machine_Learning_Models.ipynb**: Focuses on cleaned dataset analysis using machine learning models--implemented through Random Forest, Gradient Boosting, & Decision Trees.
    - **'LR and NN Model' Folder - _'Logistic_Regression_code.ipynb'_ & _'NN_Model_code.ipynb'_: Focuses on cleaned dataset analysis using machine learning models--implemented through Logistic Regression and Neural Network Model.
